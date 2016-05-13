@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="ng-img-crop" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_CrackerakiUA_ngImgCropFullExtended_master_compile_minified_ng-img-crop.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_CrackerakiUA_ngImgCropFullExtended_master_compile_minified_ng-img-crop.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
