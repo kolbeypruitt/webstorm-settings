@@ -1,7 +1,14 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
