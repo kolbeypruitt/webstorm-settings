@@ -5,4 +5,16 @@
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://gitlab.clevyr.com/clevyr/koch_community" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://gitlab.clevyr.com/clevyr/koch_community" />
+      </list>
+    </option>
+  </component>
 </application>
