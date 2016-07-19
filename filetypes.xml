@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="firstLetterOfWordCapitalize" type="JavaScript" />
       <mapping pattern="fallback-src" type="JavaScript" />
+      <mapping pattern="firstLetterOfWordCapitalize" type="JavaScript" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
