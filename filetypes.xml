@@ -4,6 +4,7 @@
       <mapping ext="dust" type="Dust" />
       <mapping pattern="firstLetterOfWordCapitalize" type="JavaScript" />
       <mapping pattern="savedActivityReducer" type="JavaScript" />
+      <mapping pattern="settingsReducer" type="JavaScript" />
       <mapping pattern="fallback-src" type="JavaScript" />
       <mapping pattern="asdfasdfasdf" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
