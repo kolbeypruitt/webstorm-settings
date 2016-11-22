@@ -6,7 +6,9 @@
       <mapping pattern="savedActivityReducer" type="JavaScript" />
       <mapping pattern="settingsReducer" type="JavaScript" />
       <mapping pattern="fallback-src" type="JavaScript" />
+      <mapping pattern="awsAccessKeyId" type="PLAIN_TEXT" />
       <mapping pattern="asdfasdfasdf" type="PLAIN_TEXT" />
+      <mapping pattern="awsSecretAccessKey" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
