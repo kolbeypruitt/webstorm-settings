@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dust" type="Dust" />
+      <mapping pattern="mapStyle" type="JSON" />
       <mapping pattern="firstLetterOfWordCapitalize" type="JavaScript" />
       <mapping pattern="savedActivityReducer" type="JavaScript" />
       <mapping pattern="settingsReducer" type="JavaScript" />
